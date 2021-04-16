@@ -22,6 +22,10 @@ $font-size-h1:24px;
   align-items: $y;
 }
 
+@function sum-function (){
+
+}
+
 /******** GENERAL *********/
 * {
   -webkit-box-sizing: border-box;
@@ -30,6 +34,7 @@ $font-size-h1:24px;
 
 html {
   font-size: 62.5%;
+  
 }
 
 body {
@@ -216,7 +221,7 @@ header{
 
 #contact-form {
   background-color: $primary-color;
-  background-image: url("../../src/images/world.png");
+  background-image: url("../src/images/world.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -368,4 +373,3 @@ footer{
   }
 }
 /*# sourceMappingURL=main.css.map */
-

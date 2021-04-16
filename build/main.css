@@ -195,7 +195,7 @@ header nav li a {
 
 #contact-form {
   background-color: #373f6f;
-  background-image: url("../../src/images/world.png");
+  background-image: url("../src/images/world.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
